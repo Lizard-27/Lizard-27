@@ -5,7 +5,7 @@
 </div>
 <h4 align="left">
 </h4>
-<h3>アブドラ</h3>
+<h3></h3>
 <hr style="width: 100%; border: none; border-top: 2px solid black; margin: 0;">
 
 </div>
